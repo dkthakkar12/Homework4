@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044751398646",
+    "firebase_url": "https://homework4-e0c60.firebaseio.com",
+    "project_id": "homework4-e0c60",
+    "storage_bucket": "homework4-e0c60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044751398646:android:2f7d344f432434bede9ed7",
+        "android_client_info": {
+          "package_name": "com.example.homework4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044751398646-ll5ahcf795ks6igvhp99bekt6liqnsvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj67KTwcOOQbZM-ynEQlYO15FKqnGEGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044751398646-ll5ahcf795ks6igvhp99bekt6liqnsvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
